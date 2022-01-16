@@ -8,12 +8,12 @@ https://github.com/Shio3001/SaltSelf/tree/45a2008a4e1264c21c2f93a4921e365b59fe79
 結論から言うとWebpackを入れてごちゃごちゃすればいける。
 `create-react-app`からwebpackを導入するやり方がわからなかったので自分でreact環境を作ることにしました。
 
-↓詳細↓
+↓詳細↓<br/>
 https://github.com/hirossan4049/cppwasm
 
 
 
-### 複雑なことはせずにとりあえず文字列を返すやつを作ってみる。
+## 複雑なことはせずにとりあえず文字列を返すやつを作ってみる。
 
 上のリポジトリにもだいたい書いてるけど優しいのでもう少し詳しく。
 <br/><br/>
